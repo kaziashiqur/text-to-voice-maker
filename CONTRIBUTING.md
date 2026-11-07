@@ -4,7 +4,7 @@ Thanks for helping make Text to Voice Maker better! Bug reports, ideas, voice te
 
 ## Reporting a bug or asking for a feature
 
-Open an [issue](../../issues/new/choose) and pick a template. For bugs, please include:
+Open an [issue](https://github.com/kaziashiqur/text-to-voice-maker/issues/new/choose) and pick a template. For bugs, please include:
 
 - what you did and what happened instead
 - the voice service and voice you used, and the language setting

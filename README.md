@@ -1,6 +1,6 @@
 # Text to Voice Maker
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/kaziashiqur/text-to-voice-maker)](../../releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/kaziashiqur/text-to-voice-maker)](https://github.com/kaziashiqur/text-to-voice-maker/releases)
 
 A free Windows desktop app that turns English and Bangla (বাংলা) scripts into natural voiceovers for YouTube, Facebook and documentaries.
 
@@ -40,7 +40,7 @@ Auto-tag uses Gemini by default. You can add keys for other free AI services as 
 
 You need Windows 10 or 11 and [Python 3.12](https://www.python.org/downloads/). In the installer, tick "Add python.exe to PATH".
 
-1. Download the latest version from [Releases](../../releases/latest) (**Source code (zip)**) and unzip it, or `git clone` this repository.
+1. Download the latest version from [Releases](https://github.com/kaziashiqur/text-to-voice-maker/releases/latest) (**Source code (zip)**) and unzip it, or `git clone` this repository.
 2. In the project folder, right-click `setup.ps1` → **Run with PowerShell**. This only needs to be done once.
 3. Double-click `run.bat` to start the app.
 4. Click **⚙ Settings**, paste a free key (see the links above), and click **Test keys**.
