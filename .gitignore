@@ -1,0 +1,10 @@
+# Your API keys live here - never commit it
+settings.json
+
+.venv/
+.cache/
+output/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
